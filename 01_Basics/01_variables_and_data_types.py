@@ -81,9 +81,13 @@ python_level = "Beginner"
 python_level = "Intermediate"
 is_learning = True
 
-print(f"---------- Student Information ----------")
+print("---------- Student Information ----------")
 print(f"Student name: {student_name}")
 print(f"Student age: {student_age}")
 print(f"Python level: {python_level}")
+
+print("---------- Updated Learning Status ----------")
+python_level = "Intermediate"
+
 print(f"Updated Python level: {python_level}")
 print(f"Currently learning: {is_learning}")
