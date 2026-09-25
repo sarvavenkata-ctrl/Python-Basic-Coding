@@ -73,8 +73,6 @@ print(f"Is online: {is_online}")
 #-----------------------------------
 #6. Pratical Example 
 #-----------------------------------
-
-
 student_name = "Srava"
 student_age = 25
 python_level = "Beginner"
@@ -90,4 +88,4 @@ print("---------- Updated Learning Status ----------")
 python_level = "Intermediate"
 
 print(f"Updated Python level: {python_level}")
-print(f"Currently learning: {is_learning}")
+print(f"Currently learning: {is_learning}") 
