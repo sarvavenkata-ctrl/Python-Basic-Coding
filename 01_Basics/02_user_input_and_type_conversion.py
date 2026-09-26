@@ -96,6 +96,13 @@ name = input("Enter your name: ")
 age = int(input("Enter your age: ")) # Convert the string input to an integer
 height = float(input("Enter your height in feet: ")) # Convert the string input to a float
 
+print(f"name: {name}")
+print(f"age: {age}")
+print(f"height: {height:.2f} feet")
+
+age_in_5_years = age + 5 
+height_in_centimeters = height * 30.48 
+
 print("-----------Calculations--------------")
 print(f"In 5 years you will be {age_in_5_years} years old")
-print(f"Your height is {height_in_Centimeters:.2f} cm")
+print(f"Your height is {height_in_centimeters:.2f} cm")
