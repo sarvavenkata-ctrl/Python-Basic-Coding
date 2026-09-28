@@ -98,7 +98,7 @@ height = float(input("Enter your height in feet: ")) # Convert the string input 
 
 print(f"name: {name}")
 print(f"age: {age}")
-print(f"height: {height:.2f} feet")
+print(f"height: {height:} feet")
 
 age_in_5_years = age + 5 
 height_in_centimeters = height * 30.48 
