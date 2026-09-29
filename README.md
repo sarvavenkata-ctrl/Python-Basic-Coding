@@ -8,8 +8,6 @@ A fundamental view of Basics in Python and explanation about each topic with an 
 - [x] Variables and Data Types
 - [x] User Input and Type Conversion
 
-
-
 ## Repository Structure
 
 Python-Basic-Coding/
