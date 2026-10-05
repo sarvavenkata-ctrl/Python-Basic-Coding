@@ -10,6 +10,7 @@ A fundamental view of Python basics with explanations and example programs for e
 - [x] User Input and Type Conversion
 - [x] Operators
 - [x] Conditional Statements
+- [x] Loops
 
 ## Repository Structure
 
@@ -20,4 +21,5 @@ Python-Basic-Coding/
     ├── 01_variables_and_data_types.py
     ├── 02_user_input_and_type_conversion.py
     ├── 03_operators.py
-    └── 04_conditional_statements.py
+    ├── 04_conditional_statements.py
+    └── 05_loops.py
