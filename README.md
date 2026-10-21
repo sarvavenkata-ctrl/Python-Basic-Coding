@@ -27,10 +27,6 @@ My goal is to build a strong technical foundation for entry-level opportunities 
 - [x] Conditional Statements
 - [x] Loops
 - [x] Lists
-- [ ] Tuples
-- [ ] Sets
-- [ ] Dictionaries
-- [ ] Functions
 
 ## Repository Structure
 
