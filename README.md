@@ -11,7 +11,7 @@ A fundamental view of Python basics with explanations and example programs for e
 - [x] Operators
 - [x] Conditional Statements
 - [x] Loops
-- [X]Lists
+- [x] Lists
 
 ## Repository Structure
 
