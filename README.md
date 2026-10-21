@@ -11,6 +11,7 @@ A fundamental view of Python basics with explanations and example programs for e
 - [x] Operators
 - [x] Conditional Statements
 - [x] Loops
+- [X]Lists
 
 ## Repository Structure
 
@@ -23,3 +24,4 @@ Python-Basic-Coding/
     ├── 03_operators.py
     ├── 04_conditional_statements.py
     └── 05_loops.py
+    └── 06_lists.py
