@@ -17,6 +17,35 @@ My goal is to build a strong technical foundation for entry-level opportunities 
 - Numerical calculations and basic data analysis
 - Git and GitHub version control
 
+## Learning Progress
+
+### 01 — Python Basics
+
+- [x] Variables and Data Types
+- [x] User Input and Type Conversion
+- [x] Operators
+- [x] Conditional Statements
+- [x] Loops
+- [x] Lists
+- [ ] Tuples
+- [ ] Sets
+- [ ] Dictionaries
+- [ ] Functions
+
+## Repository Structure
+
+```text
+Python-Basic-Coding/
+├── README.md
+└── 01_Basics/
+    ├── 01_variables_and_data_types.py
+    ├── 02_user_input_and_type_conversion.py
+    ├── 03_operators.py
+    ├── 04_conditional_statements.py
+    ├── 05_loops.py
+    └── 06_lists.py
+```
+
 ## Currently Learning
 
 - Python data structures
