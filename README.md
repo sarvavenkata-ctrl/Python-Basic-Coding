@@ -57,6 +57,24 @@ Python-Basic-Coding/
 - Cloud data engineering with AWS
 - Data warehousing and PySpark
 
+## Practical Projects
+
+### Project 01 — Student Data Cleaning and Analysis
+
+A Python-based CSV data cleaning project demonstrating a basic ETL workflow.
+
+**Key features:**
+- Reads student records from a CSV file
+- Identifies and removes incomplete records
+- Detects and removes duplicate student IDs
+- Validates marks between 0 and 100
+- Calculates total and average marks
+- Exports 11 cleaned records to a new CSV file
+
+**Technologies:** Python, CSV module
+
+[View Project 01](02_Projects/01_Student_Data_Cleaning)
+
 ## Portfolio Development
 
 This repository is continuously updated with new lessons and practical projects. Each project will include an explanation of the problem, the tools used, the implementation and the results.
